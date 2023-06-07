@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi  👋
 
-<!--
-**chrisDeFouRire/chrisDeFouRire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chris, a senior `Golang` | `Nodejs` backend engineer currently looking for a new position. Find [me on LinkedIn 🔗](https://www.linkedin.com/in/christophe-hartwig-ba228a5/).
 
-Here are some ideas to get you started:
+Here are a few open source projects of mine:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [TLSProxy](https://github.com/chrisDeFouRire/tlsproxy) is an easy to use SSL/TLS proxy. Use it to put an HTTPS proxy in front of a docker service super easily, with automatic LetsEncrypt certificate
+- [Dojibar](https://github.com/chrisDeFouRire/dojibar) is a Telegram bot to receive notifications when your Binance stop or limit orders are executed
+- [bmerch](https://github.com/chrisDeFouRire/bmerch) is a Binance Merchant API Javascript client. Accept crypto payments easily!
+- [gogitsemver](https://github.com/chrisDeFouRire/go-git-semver) makes it easier to follow semantic versioning for your Git projects. Inspired by `npm version`, you can use `git semver patch|minor|major`.
+
+In the past, I've also worked on:
+
+- [Geeo](https://github.com/GeeoIO), a reactive geo database written in Go and clients for JS and Unity
+- [Xtralife](https://github.com/xtralifecloud), an open source gaming backend-as-a-service (BaaS)
+
