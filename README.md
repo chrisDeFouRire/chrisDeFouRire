@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I'm Chris, a senior `Golang` | `Nodejs` backend engineer. Find [me on LinkedIn 🔗](https://www.linkedin.com/in/christophe-hartwig-ba228a5/). I'm currently looking for a new position.
+I'm Chris, a senior `Golang` | `Nodejs` backend engineer. Find [me on LinkedIn 🔗](https://www.linkedin.com/in/christophe-hartwig-ba228a5/).
 
 Here are a few open source projects of mine:
 
