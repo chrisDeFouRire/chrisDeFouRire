@@ -1,5 +1,5 @@
 ### Hi  👋
 
-I'm Chris, the creator of [SSLBoard](https://sslboard.com/) and [SSLCalendar](https://sslcalendar.com/) and [QCready](https://qcready.com/) and [SSLBoard Desktop OSS edition](https://github.com/sslboard/sslboard-desktop) and [quickS3.com](https://quickS3.com) and [TwinBrix, a Game!](https://twinBrix.app) and [Ultrivia.app, another game!](https://ultrivia.app). Find [me on LinkedIn 🔗](https://www.linkedin.com/in/christophe-hartwig-ba228a5/) and on [my website](https://chris-hartwig.com).
+I'm Chris, the creator of [SSLBoard](https://sslboard.com/) and [SSLCalendar](https://sslcalendar.com/) and [QCready](https://qcready.com/) and [SSLBoard Desktop OSS edition](https://github.com/sslboard/sslboard-desktop) and [quickS3.com](https://quickS3.com) and [HappySouls web iOS and Android apps (WIP)](https://happySouls.app), [TwinBrix, a Game!](https://twinBrix.app) and [Ultrivia.app, another game!](https://ultrivia.app). Find [me on LinkedIn 🔗](https://www.linkedin.com/in/christophe-hartwig-ba228a5/) and on [my website](https://chris-hartwig.com).
 
 AI made me more productive than ever, and I'm open to discuss opportunities.
